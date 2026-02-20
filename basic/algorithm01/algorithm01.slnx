@@ -1,0 +1,17 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="app01/app01.vcxproj" Id="2fd2d6fd-4ab4-47ea-a994-e441f9c14818" />
+  <Project Path="app02/app02.vcxproj" Id="d1224edd-534b-477d-88a9-090383766598" />
+  <Project Path="app03/app03.vcxproj" Id="92feb90e-ccdc-48a0-add6-cdf3dc0f763f" />
+  <Project Path="app04/app04.vcxproj" Id="37f2e38a-07d4-4ffa-997f-02a25755a03e" />
+  <Project Path="app05/app05.vcxproj" Id="c35036f6-a9be-4d18-b317-33e697fa05ed" />
+  <Project Path="app06/app06.vcxproj" Id="e48d2678-7a25-44f6-930b-c5a1f96a2687" />
+  <Project Path="pointer01/pointer01.vcxproj" Id="3a15aad9-67ec-49cd-abcd-72673a0ddee6" />
+  <Project Path="pointer02/pointer02.vcxproj" Id="5e4b6256-227f-46ac-a93c-94f40a62e992" />
+  <Project Path="pointer03/pointer03.vcxproj" Id="f41f1aa1-cb04-4e24-9fe3-4ad38de724e6" />
+  <Project Path="pointer04/pointer04.vcxproj" Id="cd5aca8b-a950-4a70-9707-afffb6d515f3" />
+  <Project Path="pointer05/pointer05.vcxproj" Id="b59eef43-e4b8-4084-8d57-909a676ed99a" />
+</Solution>
