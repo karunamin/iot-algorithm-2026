@@ -12,10 +12,12 @@ int Plus(int x) {
 	return result;
 }
 
-int main(void) {
+void main(void) {
 
 		int x;
 
 		printf("정수를 입력하세요 : "); scanf("%d", &x);
 		printf("%d\n", Plus(x));
+
+		return 0;
 }
